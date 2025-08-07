@@ -9,9 +9,6 @@ Build and automate deployment of a simple student registration app using Flask a
 - **Full web app lifecycle**
 - **DevOps and Continuous Delivery**
 
-## GitHub Repository
-[Student Registration App](https://github.com/Atharva%20Kishor%20Matale/stud-reg-flask-app/tree/master)
-
 ## Technology Stack
 - **Backend:** Python (Flask)
 - **Database:** MySQL
